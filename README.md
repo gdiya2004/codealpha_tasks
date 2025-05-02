@@ -1,6 +1,6 @@
 # codealpha_tasks
                                                              Projects
-CGPA Calculator
+                                                          CGPA Calculator
 Description:
 A CGPA (Cumulative Grade Point Average) calculator that allows users to input marks for individual subjects and calculates the corresponding CGPA based on their university's grading system.
 

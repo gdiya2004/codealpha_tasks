@@ -1,6 +1,6 @@
 # codealpha_tasks
-1. CGPA Calculator:
-![image](https://github.com/user-attachments/assets/9cbab3fa-abfb-4cbe-b6bb-26be0d44d8dd)
+1. CGPA Calculator:![image](https://github.com/user-attachments/assets/9cbab3fa-abfb-4cbe-b6bb-26be0d44d8dd)
+
 
 
 
